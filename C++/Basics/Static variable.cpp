@@ -1,0 +1,29 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//function with normal variable
+void fun()
+{
+    int x = 0;
+    x++;
+    cout << x << endl;
+}
+
+//function with static variable
+void func()
+{
+    static int x = 0;
+    x++;
+    cout << x << endl;
+}
+
+int main()
+{
+    fun();  //1
+    fun();  //1
+    cout << "-------------------------------------------" << endl;
+    func(); //1
+    func();  //2 --> static variable make x changes each call with the new reusult
+
+    return 0;
+}
