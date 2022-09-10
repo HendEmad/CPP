@@ -34,3 +34,31 @@ print(double.__doc__)
 Function to double the value
 ```
 -------------------------------------------------
+# Notes
+1. Python is a `type-inferred` language, which means that we don't have to define the variable type. It automatically can know its type.
+
+2. Constants are usually be declared in a separated file as a module. For example:
+
+- Create the constants module(.py):
+```
+PI = 3.14
+GRAVITY = 9.8
+```
+
+- Create the main.py:
+```
+import constant
+
+print(constant.PI)
+print(constant.GRAVITY)
+```
+
+Output:
+```
+3.14
+9.8
+```
+
+3. In reality, we don't use constants in Python. Naming them in all capital letters is a convention to separate them from variables, however, it does not actually prevent reassignment.
+-----------------------------------------------
+
