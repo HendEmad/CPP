@@ -33,3 +33,30 @@ int main(){
 }
 //time complexity = O(n)
 ```
+
+# [Rectangular game](https://www.hackerrank.com/challenges/rectangular-game/problem?isFullScreen=true)
+```
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int n ;
+    cin >> n;
+    long long int a, b, min_a, min_b;
+    for(int i = 0; i < n; i++){
+        cin >> a >> b;
+        if (i == 0){
+            min_a = a;
+            min_b = b;
+        }
+        if (a < min_a)
+            min_a = a;
+        if (b < min_b)
+            min_b = b;
+     }
+    cout << min_a * min_b; 
+}
+
+//time complexity = O(n)
+```
