@@ -29,7 +29,8 @@ public:
 class Solution {
 public:
     double average(vector<int>& salary) {
-        int mimimum= INT_MAX, maximum = 0, sum = 0;
+        int mimimum= INT_MAX, maximum = 0;
+        double sum = 0;
         for(int i = 0; i < salary.size(); i++){
             sum += salary[i];
             mimimum = min(salary[i], mimimum);
