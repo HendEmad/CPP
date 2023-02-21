@@ -77,3 +77,41 @@ public:
 };
 //Time complexity = O(n)
 ```
+# [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=study-plan&id=programming-skills-i)
+```
+class Solution {
+public:
+    int largestPerimeter(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        int maxPerimeter = 0;
+        for(int i = 0; i <= nums.size() - 3; i++){
+            if(nums[i] + nums[i+1] > nums[i+2])
+                maxPerimeter = max(maxPerimeter, nums[i] + nums[i+1] + nums[i+2]);
+        }
+        return maxPerimeter;
+    }
+};
+//Time complexity = O(nlog(n))
+```
+
+# [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/?envType=study-plan&id=programming-skills-i)
+```
+#include<bits/stdc++.h>
+class Solution {
+public:
+    int nearestValidPoint(int x, int y, vector<vector<int>>& points) {
+        int smallest_distance = INT_MAX, ans = -1;
+        for(int i = 0; i < points.size(); i++){
+            if (x == points[i][0] || y == points[i][1]){
+                int dis = abs(y-points[i][1]) + abs(x-points[i][0]);
+                if(dis < smallest_distance){
+                    smallest_distance = dis;
+                    ans = i;
+                }
+            } 
+        }
+        return ans;
+    }
+};
+//Time complexity = O(n)
+```
