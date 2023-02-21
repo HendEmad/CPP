@@ -115,3 +115,47 @@ public:
 };
 //Time complexity = O(n)
 ```
+
+# [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan&id=programming-skills-i)
+```
+class Solution {
+public:
+    int arraySign(vector<int>& nums) {
+        int product = 1, ans = 0;
+        for(int i = 1; i <= nums.size(); i++){
+            product *= i;
+            if (product > 0)
+                ans = 1;
+            else if (product < 0)
+                ans = -1;
+            else
+                ans = 0;
+        }
+        return ans;
+    }
+};
+//Time complexity = O(n)
+```
+
+***This code is suitabe for array with small values only, but it returns run time error for bigger values.***
+***To avoid this error, we will check if any value equals 0 in the array, then it returns 0. We then we will calculate number of negative values, if the number of them is even, so it returns positive value which makes it returns 1, and if odd, the returned value will be negative so the output will be -1.***
+
+```
+class Solution {
+public:
+    int arraySign(vector<int>& nums) {
+        int negative_values = 0;
+        for(int i = 0; i < nums.size(); i++){
+            if (nums[i] == 0)
+                return 0;
+            else if (nums[i] < 0)
+                negative_values ++;
+        }
+        if (negative_values % 2 == 0)
+            return 1;
+        else 
+            return -1;
+    }
+};
+//Time complexity = O(n)
+```
