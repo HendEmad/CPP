@@ -1,1 +1,4 @@
-
+1. [Passing array to function](https://github.com/HendEmad/Coding/blob/main/C%2B%2B/Basics/Array/Passing%20array%20to%20function.cpp)
+2. [Array sorting - simple program](https://github.com/HendEmad/Coding/blob/main/C%2B%2B/Basics/Array/Array%20sorting%20-%20simple%20program.cpp)
+3. [Reversing the array - simple program](https://github.com/HendEmad/Coding/blob/main/C%2B%2B/Basics/Array/Reversing%20the%20array%20-%20simple%20program.cpp)
+4. [Array of character](https://github.com/HendEmad/Coding/blob/main/C%2B%2B/Basics/Array/Array%20of%20character.cpp)
