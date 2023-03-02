@@ -57,6 +57,19 @@ struct fullName
     string last_name;
 };
 
+//********************PART 8********************
+// Better way for calling struct inside another struct
+struct fullName
+{
+    string first_name = "Hend";
+    string last_name = "Emad";
+};
+
+struct student : fullName
+{
+    int id;
+    cout << fullName.first_name << " " << fullName.last_name << endl;
+};
 
 int main()
 {
