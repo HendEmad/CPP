@@ -23,7 +23,7 @@ int main()
     fun();  //1
     cout << "-------------------------------------------" << endl;
     func(); //1
-    func();  //2 --> static variable make x changes each call with the new reusult
+    func();  //2 --> static variable makes x changes each call with the new result
 
     return 0;
 }
