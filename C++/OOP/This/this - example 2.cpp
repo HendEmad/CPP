@@ -20,6 +20,6 @@ int main()
 {
     student st;
     st.set_id(10);
-    st.print_id();
+    st.print_id();  // 10
     return 0;
 }
