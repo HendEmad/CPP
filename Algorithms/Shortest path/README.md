@@ -1,5 +1,5 @@
 # Content
-| *Content* | *file* |
+| *Dijkstra algorithm folder content* | *file* |
 |--------------|-------------|
 | Constant environment and obstacles dimensions | [environment dimensions](https://github.com/HendEmad/Coding/blob/main/Algorithms/Shortest%20path/Dijkstra%20algorithm/obstacle_map_file) |
 | Graph generation for graph-based algorithms for path planning | [graph_generation.py](https://github.com/HendEmad/Coding/blob/main/Algorithms/Shortest%20path/Dijkstra%20algorithm/graph_generation.py) |
