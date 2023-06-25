@@ -1,0 +1,4 @@
+size: 100 100
+circle: 50 50 10
+rectangle: 30 20 60 40
+triangle: 70 70 80 90 90 80
