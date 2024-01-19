@@ -42,3 +42,54 @@
 ![image](https://github.com/HendEmad/Coding/assets/91827137/36ff7ad6-ccaa-4d9b-a27f-a2fe0166199b)
 
 ![image](https://github.com/HendEmad/Coding/assets/91827137/e7ec5b30-2b47-48db-bb03-ce8562d20446)
+
+## Data types and variables
+### Quiz 1
+![image](https://github.com/HendEmad/Coding/assets/91827137/dd82b6bd-7b82-4e2e-948e-d4516fc599ba)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/badec7bd-7623-4813-a027-126baeedf929)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/111c0b85-6a21-41e0-94b0-785179930a84)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/9c0407d1-6cd2-4800-a790-aabd91fe3650)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/cfc2cf97-75e2-464a-b22e-cdeecd2abdc8)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/5ee47da8-b790-4127-ab08-b1a6fd3846fe)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/59773fec-0710-4e8e-b879-d5015b638d28)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/854a6149-14ed-4b6d-8133-7c5e965c53c4)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/2fe2541a-2507-41e0-8eac-de91a5de18ce)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/5d3aff9a-deb7-4033-b5c3-2d83d013e79c)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/72f432ed-dc8a-458f-9aec-faa1015d8a07)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/913f8a5f-29cc-4e03-ab8f-1bbd5c2f6166)
+
+### Quiz 2
+![image](https://github.com/HendEmad/Coding/assets/91827137/9eb2b10c-ff0d-4347-8b66-b768d54ef672)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/1b113ae3-b5fa-4cec-ba8e-f33daf181d56)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/64d4878e-03f7-48c2-81ff-586b30b41d84)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/46474410-ce73-4ca4-b0a1-8e46f896f496)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/8cc79626-57ef-408e-b7ea-0f16e46d9277)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/5a601943-3288-4e65-871b-6d2810c05e26)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/6fb5f24a-13c5-4172-a6dc-76864dbc153a)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/50685261-6655-417f-a286-07dfeff10162)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/2d98ab66-aa17-439a-96d8-fbf6ea15a48c)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/1314423f-6153-42d8-8a40-322ba1e8de07)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/e1a0dbaf-4a3a-40f4-b2d5-4c4e60a4c3fd)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/9126ef76-16b8-4501-9013-a00b0d9feee6)
