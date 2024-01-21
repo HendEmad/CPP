@@ -93,3 +93,54 @@
 ![image](https://github.com/HendEmad/Coding/assets/91827137/e1a0dbaf-4a3a-40f4-b2d5-4c4e60a4c3fd)
 
 ![image](https://github.com/HendEmad/Coding/assets/91827137/9126ef76-16b8-4501-9013-a00b0d9feee6)
+
+## Operators
+### Quiz 1
+![image](https://github.com/HendEmad/Coding/assets/91827137/eb785113-fb94-4033-8597-0e82515af187)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/8465ff65-a32b-4f4b-bd3c-af788e06831e)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/aec737a0-36c7-43b8-8fe0-06a9ae3c83e7)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/f9d958c8-b0bb-4da6-997e-8c2a04987333)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/2c86cfc3-ff07-40f8-b6dc-fb77185f422f)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/20071fc0-b3ab-4a16-9200-825cda4a2e3a)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/9f2b7717-b660-4808-9136-710a3c49a18f)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/d5aa3a94-c187-4c5d-aa63-9a1e6236b2e1)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/19652ddc-0337-4639-a78f-fca46ee961cf)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/3e218aa5-04f0-4a13-8909-67c4eb6d6493)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/556302c7-5b35-40df-9b3b-5e5792ebd65b)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/caaf2585-b75c-4bad-9461-09ff24072b1f)
+
+### Quiz 2
+![image](https://github.com/HendEmad/Coding/assets/91827137/ca559292-6650-4ddf-952c-af9b933fb9e8)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/d127c5d8-d756-4a01-9eb0-d05642b97e1e)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/d14de25f-ebc0-4a47-bd8d-7ee885bf4ceb)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/78da1070-3d76-46df-8f4f-fa50d305a60f)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/22311b67-d93c-42b4-a53b-9211b753c6e9)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/1c0b4cab-a8d8-4399-ac8c-6f8fae72a7a5)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/73208106-eb66-4385-ab98-22fd91aeaa7b)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/bc05a89c-10d5-42f9-939a-d44155bee23f)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/ec06410c-afc0-4b98-869b-c2cdc7ba6d8d)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/58fec3ba-a551-4102-9738-6f6cb5a034ca)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/031edb2b-c1ec-40d4-989d-7851dde69ac0)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/79a77ef7-4c68-4b87-a028-57f28629b370)
