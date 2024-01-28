@@ -12,3 +12,14 @@
 ![image](https://github.com/HendEmad/Coding/assets/91827137/884b5f3f-4a26-4c4e-9dc8-a482398bfb30)
 
 ![image](https://github.com/HendEmad/Coding/assets/91827137/b12fe21c-5117-4119-9c60-0e5fd5cbfc42)
+
+### Quiz 2
+![image](https://github.com/HendEmad/Coding/assets/91827137/8c29ff32-f170-4517-b99d-eb65616cc2c1)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/7d1bc43f-a8bf-49ea-9903-34e19472e04a)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/1217d029-dcb8-41a1-9ab7-9653df3a6fe1)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/0c450919-7527-4617-995a-f4839b6f6267)
+
+![image](https://github.com/HendEmad/Coding/assets/91827137/37fa80a6-faff-457c-9872-c9d6fe0912e5)
