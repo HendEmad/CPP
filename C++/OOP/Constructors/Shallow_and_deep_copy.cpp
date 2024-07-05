@@ -19,16 +19,22 @@ public:
         return m_buffer[index];
     }
 
+    // deep copying using copy constructor
     String(const String& other) : m_size(other.m_size) {
+        cout << "Object is copied..." << endl;
         m_buffer = new char[m_size];
         memccpy(m_buffer, other.m_buffer, m_size, m_size + 1);
     }
+
 
     ~String() {
         delete[] m_buffer;
     }
 };
 
+void printString(const String& string) {
+        cout << string << endl;
+    }
 
 ostream& operator<<(ostream& stream, const String& string) {
     stream << string.m_buffer;
@@ -39,6 +45,6 @@ int main() {
     String string = "Hend";  
     String second(string);  
     second[2] = 'b';
-    cout << string << endl;  // Hend
-    cout << second;  // Hebd
+    printString(string);  // Hend
+    printString(second);  // Hebd
 }
