@@ -18,9 +18,13 @@ public:
         length = 5;
         cout << length;
     }
-
+    
     Wall(int l) {
         length2 = new int(l);
+    }
+
+    void display(){
+        cout << length;
     }
 
     Wall(const Wall& w2) {
@@ -34,7 +38,11 @@ public:
 
 int main() {
     Wall w;
+    w.display();
     Wall w2(w);
-    Wall w3(20);
+    w2.display();
+    Wall w3;
+    w3.display();
     Wall w4(w3);
+    w4.display();
 }
