@@ -1,56 +1,42 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<string>
 using namespace std;
 
-class name
-{
-    char n[20];
+class father{
 protected:
-    void set_name(char N[])
-    {
-        strcpy_s(n, N);
-    }
-    void print_name()
-    {
-        cout << "Name: " << n << endl;
-    }
-};
-
-class id
-{
-    int id;
-protected:
-    void set_id(int ID)
-    {
-        id = ID;
-    }
-    void print_id()
-    {
-        cout << "ID: " << id << endl;
-    }
-};
-
-class student : public name, public id
-{
+    string fatherName;
 public:
-    student(char name[], int Id)
-    {
-        set_name(name);
-        set_id(Id);
+    father(string name) : fatherName(name) {}
+    string displayObject(){
+        return "Father name: " + this -> fatherName + '\n';
     }
+};
 
-    void print()
-    {
-        print_name();
-        print_id();
+class mother{
+protected:
+    string motherName;
+public:
+    mother(string name) : motherName(name) {}
+    string displayObject(){
+        return "Mother name: " + this -> motherName + '\n';
+    }
+};
+
+class child: public father, public mother{
+public:
+    string name;
+public:
+    child(string fatherName, string motherName, string name):
+        father(fatherName), mother(motherName), name(name) {}
+    string displayObject(){
+        return father::displayObject() +
+               mother::displayObject() +
+               "Child name: " + this -> name + '\n';
     }
 };
 
 int main()
 {
-    student ST("Hend", 32018228);
-    ST.print();
-    /* Output:
-    Name: Hend
-    ID: 32018228
-    */
+    child x("Bill", "Alexa", "Adam");
+    cout << x.displayObject() << '\n';
 }
