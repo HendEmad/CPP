@@ -42,6 +42,11 @@
     - [Implicit conversion and Explicit keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/ImplicitConversion_and_ExplicitKeyWord.cpp)
     - [size_t](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/size_t%20type.cpp)
     - [Static variable](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Static%20variable.cpp)
+    - Lvalue and Rvalue:
+        - [Intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Lvalue_and_Rvalue_expressions/Intro.cpp)
+        - [Lvalue and Rvalue with functions](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Lvalue_and_Rvalue_expressions/with_functions.cpp)
+        - [Rvalue refernece and move() keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Lvalue_and_Rvalue_expressions/rvalue_reference.cpp)
+
 
 2. OOP:
 
