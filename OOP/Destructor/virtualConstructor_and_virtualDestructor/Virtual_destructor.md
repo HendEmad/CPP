@@ -2,4 +2,7 @@ If we use runtime polymorphism (i.e. use pointer of the base class type to creat
 
 What happens internally?
 
-![Virtual destructor visualization]()
+![Virtual destructor visualization](https://github.com/HendEmad/CPP/blob/main/OOP/Destructor/virtualConstructor_and_virtualDestructor/image.png)
+
+### Note:
+Declaring a destructor as `virtual` in the base class is only necessary if you intend to use a pointer of the base class type to point to an object of the dervied class. This ensures that when the object is deleted through the base class pointer, the derived class's destructor is called, allowing for proper cleanup of the derived class resources.s
