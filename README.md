@@ -93,11 +93,46 @@
     - [Const object](https://github.com/HendEmad/CPP/blob/main/OOP/Object/const%20object.cpp)
     - [Array of objects](https://github.com/HendEmad/CPP/blob/main/OOP/Object/array%20of%20objects.cpp)
 - Constructors:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/OOP/Constructors/Constructors.cpp)
+    - [Copy constructor](https://github.com/HendEmad/CPP/blob/main/OOP/Constructors/Copy%20constructor.cpp)
+    - [Shallow and deep copying](https://github.com/HendEmad/CPP/blob/main/OOP/Constructors/Copy_constructor_shallow_and_deep_copying.cpp)
+    - [Delegation constructor](https://github.com/HendEmad/CPP/blob/main/OOP/Constructors/Delegation_constructor.cpp)
+    - [Move constructor](https://github.com/HendEmad/CPP/blob/main/OOP/Constructors/move_constructor.cpp)
 - Destructors:
+    - [Examples](https://github.com/HendEmad/CPP/blob/main/OOP/Destructor/destructor%20examples.cpp)
+    - Virtual Destructor and virtual constructor:
+        - [Explanation](https://github.com/HendEmad/CPP/blob/main/OOP/Destructor/virtualConstructor_and_virtualDestructor/Explanation.md)
+        - [Example](https://github.com/HendEmad/CPP/blob/main/OOP/Destructor/virtualConstructor_and_virtualDestructor/potentialResourcesLeak_VirtualDestructor.cpp)
 - Static in OOP:
+    - [static attributes](https://github.com/HendEmad/CPP/blob/main/OOP/Static/static%20attribute%20of%20a%20class.cpp)
+    - [static member functions](https://github.com/HendEmad/CPP/blob/main/OOP/Static/static%20member%20function.cpp)
+    - [static methods](https://github.com/HendEmad/CPP/blob/main/OOP/Static/static%20methos.cpp)
+    - [static class](https://github.com/HendEmad/CPP/blob/main/OOP/Static/static%20class.cpp)
 - Friend: 
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/OOP/Friend/friend%20function.cpp)
+    - [Examples](https://github.com/HendEmad/CPP/blob/main/OOP/Friend/friend%20function%20examples.cpp)
+    - [friend class](https://github.com/HendEmad/CPP/blob/main/OOP/Friend/friend%20class.cpp)
 - Inheritance:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/introduction%20to%20inheritance.cpp)
+    - [Private inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/Private%20inheritance.cpp)
+    - [Constructors in inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/Inheritance%20-%20constructors.cpp)
+    - [Multiple inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/Multiple%20inheritance.cpp)
+    - [Multi-level inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/Multi-Level%20Inheritance.cpp)
+    - [Hierarchical inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/Hierarchical%20Inheritance.cpp)
+    - [Virtual inheritance](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/virtual%20Inheritance.cpp)
+    - [Object slicing](https://github.com/HendEmad/CPP/blob/main/OOP/Inheritance/object_slicing.cpp)
 - Polymorphism:
+    - [Functions overriding](https://github.com/HendEmad/CPP/blob/main/OOP/Polymorphism/Function%20overriding.cpp)
+    - [Virtual function](https://github.com/HendEmad/CPP/blob/main/OOP/Polymorphism/virtual_function_BasicExample.cpp)
+    - [Abstract class](https://github.com/HendEmad/CPP/blob/main/OOP/Polymorphism/Abstract%20class.cpp)
+    - [Run-time polymorphism Example](https://github.com/HendEmad/CPP/blob/main/OOP/Polymorphism/Polymorphism%20full%20example.cpp)
 - Operator overloading:
+    - [Binary operator overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/Binary%20operator%20overloading.cpp)
+    - [Unary operator overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/Unary%20operator%20overloading.cpp)
+    - [Relational overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/relational%20operator%20overloading.cpp)
+    - [Friend operator](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/friend%20operator.cpp)
+    - [Object of type array overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/object%20of%20type%20array%20overloading.cpp)
+    - [cin & cout operators overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/cin%20%26%20cout%20operator%20overloading.cpp)
+    - [int operator overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/int%20operator%20overloading.cpp)
 
 </details>
