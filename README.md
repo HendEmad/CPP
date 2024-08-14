@@ -136,3 +136,33 @@
     - [int operator overloading](https://github.com/HendEmad/CPP/blob/main/OOP/Operator%20overloading/int%20operator%20overloading.cpp)
 
 </details>
+
+<details>
+<summary><strong><a href = "https://github.com/HendEmad/CPP/tree/main/DataStructure">Data structures<a></strong></summary>
+
+- Array:
+    - [Dynamic array](https://github.com/HendEmad/CPP/blob/main/DataStructure/Array/Dynamic%20Array%20Data%20Structure.cpp)
+- LinkedList:
+    - [Linked List implementation](https://github.com/HendEmad/CPP/blob/main/DataStructure/LinkedList/Linked%20list.cpp)
+    - [Doubly liked list](https://github.com/HendEmad/CPP/blob/main/DataStructure/LinkedList/Doubly%20linked%20list.cpp)
+    - [Circular linked list](https://github.com/HendEmad/CPP/blob/main/DataStructure/LinkedList/circular%20Linked%20List.cpp)
+- Stack:
+    - [Stack implementaton using linked list](https://github.com/HendEmad/CPP/blob/main/DataStructure/Stack/Stack%20implementation%20using%20LinkedList.cpp)
+    - [Balanced parentheese](https://github.com/HendEmad/CPP/blob/main/DataStructure/Stack/balanced%20parentheese.cpp)
+- Queue:
+    - [Queue implementation - using static circular array](https://github.com/HendEmad/CPP/blob/main/DataStructure/Queue/queue%20implementation%20-%20static%20circular%20array.cpp)
+    - [Queue implementation - using circular array](https://github.com/HendEmad/CPP/blob/main/DataStructure/Queue/queue%20implementation%20-%20circular%20array.cpp)
+    - [Queue implementation - using dynamic circular array](https://github.com/HendEmad/CPP/blob/main/DataStructure/Queue/queue%20implementation%20-%20dynamic%20circular%20array.cpp)
+    - [Queue implementation - using linked list](https://github.com/HendEmad/CPP/blob/main/DataStructure/Queue/queue%20implementation%20-%20linkedlist.cpp)
+- Tree:
+    - [Binary tree](https://github.com/HendEmad/CPP/blob/main/DataStructure/Tree/Binary%20tree.cpp)
+    - [Binary search tree](https://github.com/HendEmad/CPP/blob/main/DataStructure/Tree/Binary%20search%20tree.cpp)
+    - [AVL tree](https://github.com/HendEmad/CPP/blob/main/DataStructure/Tree/AVL%20Tree.cpp)
+    - [Heap tree](https://github.com/HendEmad/CPP/blob/main/DataStructure/Tree/Heap%20tree%20(Priority%20queue).cpp)
+    - [KD tree](https://github.com/HendEmad/CPP/blob/main/DataStructure/Tree/KD%20Tree.cpp)
+- Bucket queue:
+    - [Bucket queue class implementation](https://github.com/HendEmad/CPP/blob/main/DataStructure/Bucket_Queue/BucketQueue.h)
+    - [Dijktra algorithm using bucket queue](https://github.com/HendEmad/CPP/blob/main/DataStructure/Bucket_Queue/Dijkstra_algorithm.cpp)
+    - [A* algorithm using bucket queue](https://github.com/HendEmad/CPP/blob/main/DataStructure/Bucket_Queue/A_star_algorithm.cpp)
+
+</details>
