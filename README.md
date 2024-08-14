@@ -44,12 +44,15 @@
         - [Unique Pointer class](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/unique_pointer.cpp)
         - [Shared Pointer class](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/shared_pointer.cpp)
         - [auto](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/auto.cpp)
-- [Struct](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Struct.cpp)
-- [Auto keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/auto.cpp)
+- Struct:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/structures/Struct.cpp)
+    - [Passing struct to function](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/structures/passing%20struct%20to%20function.cpp)
 - [Const keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/const.cpp)
 - [Implicit conversion and Explicit keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/ImplicitConversion_and_ExplicitKeyWord.cpp)
 - [size_t](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/size_t%20type.cpp)
 - [Static variable](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Static%20variable.cpp)
+- [Enum](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/enumeration.cpp)
+- Exception Handling
 - Lvalue and Rvalue:
     - [Intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Lvalue_and_Rvalue_expressions/Intro.cpp)
     - [Lvalue and Rvalue with functions](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Lvalue_and_Rvalue_expressions/with_functions.cpp)
