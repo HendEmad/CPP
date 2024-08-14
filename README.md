@@ -21,6 +21,9 @@
     - [Default function `Default parameters`](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Functions/Default%20function.cpp)
     - [Functions overloading](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Functions/Overloading%20funciton.cpp)
     - [Inline functions](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Functions/Inline%20funciton.cpp)
+- Template:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Functions%20template/function%20template.cpp)
+    - [Function template with multiple parameters](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Functions%20template/function%20template%20with%20multiple%20parameters.cpp)
 - Array:
     - [2D array](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Array/2D%20Array.cpp)
     - [Passing array to function](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Array/Passing%20array%20to%20function.cpp)
@@ -33,12 +36,14 @@
     - [Pointers intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/Pointer.cpp)
     - [Pointers arithmetic](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/pointers%20arithmetic.cpp)
     - [Pointers and literals](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/pointers%20and%20literals.cpp)
+    - [new & delete](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/new%26delete.cpp)
     - [Variable alias](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/variable%20alias.cpp)
     - [Call by value, pointer, reference](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/call%20by%20value%2C%20pointer%2C%20reference.cpp)
     - [Aliasing and constant variables](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/Aliasing%20%26%20constant%20variable.cpp)
     - Smart Pointers:
         - [Unique Pointer class](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/unique_pointer.cpp)
         - [Shared Pointer class](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/shared_pointer.cpp)
+        - [auto](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/smart_pointers/auto.cpp)
 - [Struct](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Struct.cpp)
 - [Auto keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/auto.cpp)
 - [Const keyword](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/const.cpp)
@@ -66,7 +71,7 @@
 </details>
 
 <details>
-<summary><strong><a href = "https://github.com/HendEmad/CPP/tree/main/STL">STL<a></strong></summary>
+<summary><strong><a href = "https://github.com/HendEmad/CPP/tree/main/OOP">OOP<a></strong></summary>
 
 - Vectors:
     - [Accumulate function](https://github.com/HendEmad/CPP/blob/main/STL/accumulate%20function.cpp)
