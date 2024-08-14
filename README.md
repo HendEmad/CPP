@@ -36,6 +36,7 @@
     - [Pointers intro](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/Pointer.cpp)
     - [Pointers arithmetic](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/pointers%20arithmetic.cpp)
     - [Pointers and literals](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/pointers%20and%20literals.cpp)
+    - [Pointers and arrays](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/pointers%20and%20arrays.cpp)
     - [new & delete](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/new%26delete.cpp)
     - [Variable alias](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/variable%20alias.cpp)
     - [Call by value, pointer, reference](https://github.com/HendEmad/CPP/blob/main/C%2B%2B/Pointers/call%20by%20value%2C%20pointer%2C%20reference.cpp)
@@ -76,12 +77,27 @@
 <details>
 <summary><strong><a href = "https://github.com/HendEmad/CPP/tree/main/OOP">OOP<a></strong></summary>
 
-- Vectors:
-    - [Accumulate function](https://github.com/HendEmad/CPP/blob/main/STL/accumulate%20function.cpp)
-    - [max_element function](https://github.com/HendEmad/CPP/blob/main/STL/max_element%20function.cpp)
-- Maps:
-    - [map](https://github.com/HendEmad/CPP/blob/main/STL/maps.cpp)
-    - [Unordered map](https://github.com/HendEmad/CPP/blob/main/STL/unordered_map.cpp)
-- [List and Forward list](https://github.com/HendEmad/CPP/blob/main/STL/list_and_forwardList.cpp)
+- Classes:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/Classes.cpp)
+    - [Private variables](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/private%20variables.cpp)
+    - [Passing struct to class](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/passing%20struct%20to%20class.cpp)
+    - [Pointers and classes](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/pointers%20and%20classes.cpp)
+    - [new & delete in classes](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/new%26delete%20with%20classes.cpp)
+    - [Exception Handling with classes](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/Exception%20handling%20with%20classes.cpp)
+    - [enum with classes](https://github.com/HendEmad/CPP/blob/main/OOP/Classes/enumeration%20with%20classes.cpp)
+- Class template:
+    - [Intro](https://github.com/HendEmad/CPP/blob/main/OOP/Class%20template/class%20template.cpp)
+    - [Temlate specializaton](https://github.com/HendEmad/CPP/blob/main/OOP/Class%20template/template%20specialization.cpp)
+- Object:
+    - [This pointer](https://github.com/HendEmad/CPP/blob/main/OOP/Object/this.cpp)
+    - [Const object](https://github.com/HendEmad/CPP/blob/main/OOP/Object/const%20object.cpp)
+    - [Array of objects](https://github.com/HendEmad/CPP/blob/main/OOP/Object/array%20of%20objects.cpp)
+- Constructors:
+- Destructors:
+- Static in OOP:
+- Friend: 
+- Inheritance:
+- Polymorphism:
+- Operator overloading:
 
 </details>
